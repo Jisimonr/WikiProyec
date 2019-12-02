@@ -1,8 +1,11 @@
 
-|Aplicación|Repositorio  |
-|BALANDRA--|--|
+|  **APLICACIÓN**|**REPOSITORIO**  |
+|--|--|
+| BALANDRA |  |
 | BSS |  |
-| CRM| |
-| ERP| |
+| CRM |  |
+| ERP |  |
+|  |  |
+
 
 
