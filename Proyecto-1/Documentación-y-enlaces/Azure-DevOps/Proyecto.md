@@ -16,7 +16,7 @@ En esta pantalla:
 
 El proyecto toma por defecto como administrador al creador del proyecto. 
 
-Una vez creado bien por los ajustes de la organización o por las del proyecto podremos modificar:
+Una vez creado bien por la configuración de la organización o por la del proyecto podremos modificar:
 
 - La imagen para que nos ayude visualmente a reconocer el proyecto.
 - La visibilidad
