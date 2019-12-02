@@ -1,4 +1,4 @@
-## **DATOS NECESARIOS PARA CREAR EQUIPOS EN AZURE**
+# **DATOS NECESARIOS PARA CREAR EQUIPOS EN AZURE**
 Una vez que tengamos creado el proyecto podremos crear el o los equipos que lo van a llevar a cabo.
  Para crear un equipo necesitamos tener un listado de los miembros que lo van a formar y de los que lo van a administrar.
 Opcionalmente podemos enlazarlo a un grupo o grupos de permisos.
