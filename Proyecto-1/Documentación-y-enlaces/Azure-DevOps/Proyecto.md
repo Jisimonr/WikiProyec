@@ -1,5 +1,5 @@
 **DATOS NECESARIOS PARA CREA DE UN PROYECTO**
-Para crear un proyecto deberemos tener claro la plantilla de proceso (Basic, Agile, Scrum o CMMI) ya que no se podrá cambiar una vez creado el proyecto.
+Para crear un proyecto deberemos tener claro la plantilla del proyecto (Basic, Agile, Scrum o CMMI) ya que no se podrá cambiar una vez creado el proyecto.
  Desde la configuración de la organización nos vamos a la opción de proyectos, pinchando en el botón nuevo proyecto nos aparecerá la siguiente pantalla:
 
 ![image.png](/.attachments/image-eaf02cef-6308-4f22-83fe-451d639c505b.png)
