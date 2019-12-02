@@ -1,1 +1,1 @@
-Aquí podemos encontrar una guía que nos indica que tenemos que hacer para montar en Azure DevOps nuestra estructura de proyecto. Desde crear una organización, un proyecto, usuarios, permisos 
+Aquí podemos encontrar una guía que nos indica que tenemos que hacer para montar en Azure DevOps nuestra estructura de trabajo. Desde crear una organización, un proyecto, usuarios, permisos 
