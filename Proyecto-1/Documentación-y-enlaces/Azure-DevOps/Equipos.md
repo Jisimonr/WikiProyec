@@ -7,9 +7,9 @@ Desde la configuración del proyecto nos vamos a la opción de equipos, pinchand
 ![image.png](/.attachments/image-d68e3f96-f760-4de3-a280-9baa0efdd272.png) 
  
 En esta pantalla:
-Opcionalmente podemos asociar una imagen que nos ayude visualmente a reconocer el equipo.
-Le daremos nombre.
-Invitaremos a los miembros que van a conformarlo.
-Indicaremos una descripción. Es opcional, pero ayuda a dar una idea del objetivo del equipo.
-Indicar administrador/es, no podemos crear un equipo sin administrador. El creador por defecto es el administrador del equipo, pero podemos añadir otros y quitar al administrador que lo ha creado.
-Asociar el equipo a uno o varios grupos de seguridad.
+- Opcionalmente podemos asociar una imagen que nos ayude visualmente a reconocer el equipo.
+- Le daremos nombre.
+- Invitaremos a los miembros que van a conformarlo.
+- Indicaremos una descripción. Es opcional, pero ayuda a dar una idea del objetivo del equipo.
+- Indicar administrador/es, no podemos crear un equipo sin administrador. El creador por defecto es el administrador del equipo, pero podemos añadir otros y quitar al administrador que lo ha creado.
+- Asociar el equipo a uno o varios grupos de seguridad.
